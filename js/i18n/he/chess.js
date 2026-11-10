@@ -1,0 +1,28 @@
+// Hebrew for Chess.
+export default {
+  'Chess': 'שחמט',
+  '<ul><li>You play <b>White</b> and move first. Tap a piece, then tap a dot to move it.</li><li>A dot is a free square. A ring is a piece you can capture.</li><li><b>Undo</b> takes back your move and the computer\'s reply. <b>Hint</b> suggests a move.</li><li><b>New game</b> lets you choose Easy, Medium or Hard.</li><li>Your game is saved, so you can come back to it later.</li></ul>':
+    '<ul><li>אתם משחקים בלבן ופותחים את המשחק. הקישו על כלי, ואחר כך על נקודה כדי להזיז אותו.</li><li>נקודה היא משבצת פנויה. טבעת היא כלי שאפשר לאכול.</li><li><b>ביטול מהלך</b> מחזיר את המהלך שלך ואת התשובה של המחשב. <b>רמז</b> מציע מהלך.</li><li>ב<b>משחק חדש</b> בוחרים רמה: קל, בינוני או קשה.</li><li>המשחק נשמר, אז אפשר לחזור אליו אחר כך.</li></ul>',
+  '{level} · no games yet': '{level} · עדיין אין משחקים',
+  '{level} · Wins {w} · Draws {d} · Losses {l}': '{level} · ניצחונות {w} · תיקו {d} · הפסדים {l}',
+  'Computer is thinking…': 'המחשב חושב…',
+  'Looking for a good move…': 'מחפש מהלך טוב…',
+  'Your move': 'תורך',
+  'Check! Your move': 'שח! תורך',
+  'Computer': 'המחשב',
+  'You': 'אתה',
+  'Draw': 'תיקו',
+  'Checkmate! Well played.': 'מט! כל הכבוד.',
+  'Checkmate. The computer won this time.': 'מט. המחשב ניצח הפעם.',
+  'Stalemate: the player to move has no legal move, and is not in check.': 'פט: לשחקן שהגיע תורו אין מהלך חוקי, והמלך שלו לא בשח.',
+  'Not enough pieces left to give checkmate.': 'לא נשארו מספיק כלים כדי לתת מט.',
+  'Fifty moves in a row without a capture or a pawn move.': 'חמישים מהלכים ברצף בלי אכילת כלי ובלי מהלך של רגלי.',
+  'The same position came up three times.': 'אותו מצב על הלוח חזר שלוש פעמים.',
+  'Promote your pawn': 'לאיזה כלי לקדם את הרגלי?',
+  'Queen': 'מלכה',
+  'Rook': 'צריח',
+  'Bishop': 'רץ',
+  'Knight': 'פרש',
+  'Computer level': 'רמת המחשב',
+  'Hint: follow the arrow': 'רמז: ראו את החץ',
+};
